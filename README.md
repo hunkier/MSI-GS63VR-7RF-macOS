@@ -1,0 +1,2 @@
+# MSI-GS63VR-7RF-macOS
+微星GS63VR 7RF黑苹果EFI驱动
